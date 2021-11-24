@@ -6,9 +6,6 @@ public class Utils {
     public static Vector wczytajKsiazki() {
         //Na razie nie parametryzujemy;
         Vector ksiazki = new Vector();
-
-
-
-        return ksiazki;
+      return ksiazki;
     }
 }
